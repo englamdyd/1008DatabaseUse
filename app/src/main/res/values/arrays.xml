@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="talents">
+        <item>한고은</item>
+        <item>아이유</item>
+        <item>문채원</item>
+        <item>손나은</item>
+        <item>고준희</item>
+        <item>신다은</item>
+
+
+    </string-array>
+</resources>
